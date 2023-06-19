@@ -1,4 +1,4 @@
-## GEE code to run CODED (Bullock et al., 2019) for the NAB Mangroves (Amaral et al., under review)
+# Google Earth Engine code to run CODED (Bullock et al., 2019) for the NAB Mangrove areas (Amaral et al., under review)
 
 ```JavaScript
 // Region of Interest 
