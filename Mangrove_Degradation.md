@@ -66,6 +66,9 @@ Export.image.toAsset({
   }
 })
 ```
-References
+
+**References**
+
 Amaral, C., Poulter, B., Lagomasino, D., Fatoyinbo, T., Taillie, P., Lizcano, G., Canty, S. W. J., Herrera Silveira, J. A., Teutli-Hernandez, C., Cifuentes, M., Charles, S. P., Moreno, C. S., González-Trujillo, J. D., Roman-Cuesta, R. M. (2023). Drivers of mangrove vulnerability and resilience to tropical cyclones in the North Atlantic Basin. Science of The Total Environment (in review).
+
 Bullock, E. L., Woodcock, C. E., & Olofsson, P. (2020). Monitoring tropical forest degradation using spectral unmixing and Landsat time series analysis. Remote sensing of Environment, 238, 110968.
