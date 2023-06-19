@@ -1,4 +1,4 @@
-# Google Earth Engine code to run CODED (Bullock et al., 2019) for the NAB Mangrove areas (Amaral et al., under review)
+# Google Earth Engine code to run CODED (Bullock et al., 2019) for the NAB Mangrove areas (Amaral et al., 2023)
 
 ```JavaScript
 // Region of Interest 
@@ -66,3 +66,6 @@ Export.image.toAsset({
   }
 })
 ```
+References
+Amaral, C., Poulter, B., Lagomasino, D., Fatoyinbo, T., Taillie, P., Lizcano, G., Canty, S. W. J., Herrera Silveira, J. A., Teutli-Hernandez, C., Cifuentes, M., Charles, S. P., Moreno, C. S., González-Trujillo, J. D., Roman-Cuesta, R. M. (2023). Drivers of mangrove vulnerability and resilience to tropical cyclones in the North Atlantic Basin. Science of The Total Environment (in review).
+Bullock, E. L., Woodcock, C. E., & Olofsson, P. (2020). Monitoring tropical forest degradation using spectral unmixing and Landsat time series analysis. Remote sensing of Environment, 238, 110968.
