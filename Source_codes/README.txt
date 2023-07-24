@@ -1,0 +1,1 @@
+Degradation codes are JavaScript while Carbon codes are R language.
